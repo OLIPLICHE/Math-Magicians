@@ -1,3 +1,5 @@
+## Math-Magicians
+In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +70,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Built With
+- HTML5, 
+- CSS3 
+- JS
+- React
+
+## Live Demo
+[Live Demo Link](https://olipliche.github.io/Math-Magicians/)
+
+## Author
+👤 **Olipliche Paka Mavoungou**
+- GitHub: [https://github.com/OLIPLICHE)
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
+
+## 📝 License
+This project is [Microverse](https://www.microverse.org/) licensed.
