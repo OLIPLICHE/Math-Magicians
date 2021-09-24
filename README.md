@@ -85,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Author
 👤 **Olipliche Mavoungou Paka**
 - GitHub: [https://github.com/OLIPLICHE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche-paka-mavoungou/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
