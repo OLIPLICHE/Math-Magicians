@@ -1,5 +1,5 @@
 ## Math-Magicians
-In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application.
+In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application, I develop just the UI of the calculator.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -81,7 +81,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 [Live Demo Link](https://olipliche.github.io/Math-Magicians/)
 
 ## Author
-👤 **Olipliche Paka Mavoungou**
+👤 **Olipliche Mavoungou Paka**
 - GitHub: [https://github.com/OLIPLICHE)
 
 ## 🤝 Contributing
