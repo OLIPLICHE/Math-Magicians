@@ -1,9 +1,11 @@
 /* eslint-disable no-useless-constructor */
 /* eslint-disable arrow-body-style */
 /* eslint-disable react/prefer-stateless-function */
+/* eslint-disable-next-line */
+
 import React from 'react';
 
-const Components = () => {
+const ComponentsOfCalculator = () => {
   return (
     <div className="container">
       <div className="wrapper">
@@ -40,7 +42,7 @@ class Calculator extends React.Component {
   render() {
     return (
       <div className="frame">
-        <Components />
+        <ComponentsOfCalculator />
       </div>
     );
   }
