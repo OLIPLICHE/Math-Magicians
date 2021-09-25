@@ -1,5 +1,7 @@
 ## Math-Magicians
-In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application, I develop just the UI of the calculator.
+In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application, I develop the UI of the calculator. I add the logic needed to make the Calculator to work.
+
+![CalcImages](./images/calc.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -83,6 +85,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Author
 👤 **Olipliche Mavoungou Paka**
 - GitHub: [https://github.com/OLIPLICHE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche-paka-mavoungou/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
