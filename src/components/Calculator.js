@@ -49,7 +49,7 @@ class Calculator extends React.Component {
             onClick={this.handleClick}
           />
           <input
-            value="/"
+            value="÷"
             type="button"
             className="btn orange calculator__key calculator__key--operator calculator__padding"
             onClick={this.handleClick}
