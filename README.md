@@ -1,5 +1,5 @@
 ## Math-Magicians
-In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application, I develop the UI of the calculator. I add the logic needed to make the Calculator to work.
+In this project of the Math Magicians application, I set up the environment and tools needed to develop a React application, I develop the UI of the calculator. I add the logic needed to make the Calculator to work. Instead of using class based components, I use hooks.
 
 ![CalcImages](./images/calc.png)
 # Getting Started with Create React App
