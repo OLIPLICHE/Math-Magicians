@@ -80,7 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - React
 
 ## Live Demo
-[Live Demo Link](https://olipliche.github.io/Math-Magicians/)
+[Live Demo Link](https://github.com/OLIPLICHE/Math-Magicians/)
 
 ## Author
 👤 **Olipliche Mavoungou Paka**
