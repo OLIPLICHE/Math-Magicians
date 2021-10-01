@@ -8,25 +8,6 @@
   -webkit-user-drag: none;
 }
 
-body {
-  background-color: burlywood;
-  display: grid;
-  place-content: center;
-  font-family: 'Roboto', sans-serif;
-  height: 100vh;
-  font-size: 1.5rem;
-}
-
-.container {
-  height: 70vh;
-  width: 76vh;
-  background-color: #bbb4b4;
-  padding: 0;
-  -webkit-box-shadow: 1px 1px 1px 0 rgb(50 50 50 / 75%);
-  -moz-box-shadow: 1px 1px 1px 0 rgb(50 50 50 / 75%);
-  box-shadow: 1px 1px 1px 0 rgb(50 50 50 / 75%);
-}
-
 .wrapper {
   display: grid;
   height: 100%;
@@ -83,4 +64,118 @@ body {
   border-radius: 0;
   place-content: unset;
   align-items: center;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input[type='button'] {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+input[type='text'] {
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.active-link {
+  color: orangered;
+  text-decoration: underline;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em 2em;
+  background-color: white;
+}
+
+.nav-ul {
+  display: flex;
+  gap: 2em;
+  list-style-type: none;
+}
+
+.nav-a {
+  color: black;
+  text-decoration: none;
+}
+
+.nav-a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.welcome-para {
+  line-height: 1.5;
+}
+
+.welcome-container {
+  padding: 1rem 9rem;
+}
+
+.welcome-header {
+  font-size: 23px;
+}
+
+.container {
+  width: 58%;
+  height: 51vh;
+}
+
+.container-quotes {
+  width: 81%;
+  padding: 3em 0;
+  background-color: #f5f5f5;
+  font-size: 11px;
+  margin: 0 auto;
+}
+
+.calculator-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.calculator-header {
+  flex: 50%;
+  font-size: 23px;
+}
+
+.calculator-app {
+  padding-left: 37em;
+  padding-top: 4em;
+  position: absolute;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    margin: 2em 5em;
+  }
+
+  header {
+    padding: 1em 5em;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .container {
+    margin: 2em 10em;
+  }
+
+  header {
+    padding: 1em 9em;
+  }
 }
