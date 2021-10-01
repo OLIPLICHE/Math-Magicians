@@ -156,7 +156,7 @@ h1 {
 
 .calculator-app {
   padding-left: 37em;
-  padding-top: 4em;
+  padding-top: 0;
   position: absolute;
 }
 
